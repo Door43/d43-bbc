@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bbc:home|Door43 (bbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bbc|d43-bbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bbc/archive/master.zip|d43-bbc.zip]]
+
+**Recent Changes**
+{{changes>ns = bbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bbc|Ethnologue data]]
+
